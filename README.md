@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs, Typescript**
 
-- 📫 How to reach me **developeraxrorbek@gmail.com**
+- 📫 To contact me **developeraxrorbek@gmail.com**
 
 <h3 align="left">Explore me:</h3>
 <p align="left">
