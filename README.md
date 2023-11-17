@@ -1,1 +1,2 @@
-![image](https://github.com/Akhrorbek1998/Akhrorbek1998/assets/124816017/26ddcad9-1759-41b1-aeb2-151d614517b6)
+![image](https://github.com/Akhrorbek1998/Akhrorbek1998/assets/124816017/af41c7cc-1e09-400f-90f8-936e16adfe68)
+
