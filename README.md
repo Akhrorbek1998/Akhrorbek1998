@@ -2,6 +2,8 @@
 <p>Frontend mentor and developer</p>
 
 <h2>technologies</h2>
-<img src="https://github.com/Akhrorbek1998/Akhrorbek1998/assets/124816017/cdc177d5-8830-4c26-abdc-eb0ba3aeb0a9" alt="html icon" width="80" />
-
+<img src="https://github.com/Akhrorbek1998/Akhrorbek1998/assets/124816017/cdc177d5-8830-4c26-abdc-eb0ba3aeb0a9" alt="html icon" width="60" />
+<img src="[https://github.com/Akhrorbek1998/Akhrorbek1998/assets/124816017/cdc177d5-8830-4c26-abdc-eb0ba3aeb0a9](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
+)https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
+" alt="html icon" width="60" />
 
