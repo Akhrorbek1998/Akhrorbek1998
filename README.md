@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Akhrorbek Rakhimberdiyev</h1>
 <h3>Frontend mentor and developer</h3>
 
-- 🔭 I’m currently working on **integer_academy**
+- 🔭 I’m currently working on [Home shopping program](https://akhror-homeland.netlify.app/)
 
 - 🌱 I’m currently learning **NextJs**
 
